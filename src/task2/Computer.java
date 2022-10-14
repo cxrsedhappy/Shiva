@@ -3,7 +3,6 @@ package task2;
 public class Computer {
     private String name;
     private int price;
-
     public Computer(String name, int price){
         this.name = name;
         this.price = price;
